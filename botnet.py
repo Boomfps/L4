@@ -53,3 +53,4 @@ module_checker()
 
 if __name__ == '__main__':
 	socket_run()
+	input()
